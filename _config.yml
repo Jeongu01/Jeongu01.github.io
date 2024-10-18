@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 정우 블로그 # the main title
+title: 전구의 블로그 # the main title
 
-tagline: 공부한 내용을 기록해보려고 합니다. # it will display as the subtitle
+tagline: 느리더라도 꾸준히 공부한 내용을 정리해보려고 합니다. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -28,13 +28,13 @@ url: "https://jeongu01.github.io"
 github:
   username: Jeongu01 # change to your GitHub username
 
-twitter:
-  username:  # change to your Twitter username
+# twitter:
+#  username:  # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 정우
+  name: 전구
   email: kjw101147@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
